@@ -6,4 +6,4 @@
 - **Download Desktop:** https://download.02engine.02studio.xyz/
 - **Run SB3 Online in 02Engine:** https://editor.02engine.02studio.xyz/embed?project_url=your_project_file_url
 
-**02Engine** is made by **02Studio**
+**02Engine** is made by **0.2Studio**
